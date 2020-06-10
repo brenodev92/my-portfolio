@@ -29,7 +29,7 @@ import profile from "../assets/images/profile.jpg";
 const useStyles = makeStyles((theme) => ({
   menuSliderContainer: {
     width: 250,
-    background: "#511",
+    background: "#233",
     height: "100%",
   },
   avatar: {
