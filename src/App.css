@@ -1,0 +1,13 @@
+body {
+  background-image: url("./assets/images/coffee-apple.jpg"); 
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+
+body, html, #root {
+  height: 100%;
+  width: 100%;
+}
